@@ -3,7 +3,7 @@
 > This is a fork of [this repo](https://github.com/JannikArndt/arte-downloader), which currently uses the v1 api from arte, they recently switched to a new version that uses HLS Streams, which prompted me to make a few changes to the script.
 
 
-Since movies on Arte.tv are only available online for a _limited_ amount of time, you might want to download something before it's gone. This helps.
+Since movies on Arte.tv are only available online for a _limited_ amount of time, you might want to download something to watch later. Please remember to buy the original copies, for the artists and production.
 
 # How-To
 
